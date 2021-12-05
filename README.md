@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>Hey, I am <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Aaron</a>! 👋</h1>
+<h1>Hey there, I am <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Aaron</a>! 👋</h1>
     <img src="https://lanyard-profile-readme.vercel.app/api/287218738242125826" height="280">
 </div>
 <br>

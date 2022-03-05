@@ -5,8 +5,8 @@
 <div align="center">
 <h1>Hey there, I am <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Aaron</a>! 👋</h1>
 </div>
-    ![](https://komarev.com/ghpvc/?username=Adriichu&style=flat-square&color=red)    
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Adriichu&label=Profile%20views&color=red&style=for-the-badge" alt="Adriichu" /> </p>
 
     
 <div align="center">

@@ -7,7 +7,9 @@
 </div>
     
 <div align="center">
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76D45&size=30&duration=4500&center=true&multiline=true&height=90&lines=A+Tech+Enthusiast+;and+a+Developer.)](https://git.io/typing-svg)
+    
 </div>
 
 <div align="center"> 

@@ -4,6 +4,7 @@
 
 <div align="center">
 <h1>Hey there, I am <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Aaron</a>! 👋</h1>
+    ![](https://komarev.com/ghpvc/?username=Adriichu&style=flat-square&color=red)
 </div>
     
 <div align="center">

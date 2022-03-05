@@ -10,7 +10,7 @@
     
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76D45&size=50&duration=4500&center=true&vCenter=true&multiline=true&width=700&height=300&lines=A+Tech+Enthusiast+;and+a+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76D45&size=40&duration=4500&center=true&vCenter=true&multiline=true&width=700&height=300&lines=A+Tech+Enthusiast+;and+a+Developer.)](https://git.io/typing-svg)
 
 </div>
     

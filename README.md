@@ -39,3 +39,7 @@
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /> <br> <br>
+
+<!-- SYSTEM -->
+### Operating System:
+ <img alt="C#" width="18px" src="https://www.getmyos.com/upload/files/2018/09/17/windows-logo_1_926ed76111646acbbe332bc5af0cf2ce.png" /> Windows 10 <br> <br>

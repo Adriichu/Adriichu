@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Aaron</a>! 👋</h1>
+<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Aaron</a>!</h1>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adriichu&label=Profile%20views&color=red&style=for-the-badge" alt="Adriichu" /> </p>

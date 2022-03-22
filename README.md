@@ -28,3 +28,14 @@
 <div align="center"> 
     <img src="https://lanyard-profile-readme.vercel.app/api/287218738242125826">
 </div>
+
+<!-- LANGUAGE AND TOOLS -->
+### Languages and Tools I use:
+
+<img align="left" alt="discord.js" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="30px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /> <br> <br>

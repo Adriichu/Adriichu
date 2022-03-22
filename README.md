@@ -26,8 +26,3 @@
 ### My Discord Activity:
 
 <img align="center" src="https://lanyard-profile-readme.vercel.app/api/287218738242125826"/>
-
-<br>
-<br>
-<br>
-

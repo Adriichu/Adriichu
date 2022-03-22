@@ -10,6 +10,17 @@
 <!-- BANNER -->
 <img src="https://cdn.discordapp.com/attachments/561523819676696586/955896938597847040/Banner-modified.png">
 
+<!-- -----ABOUT ME----- -->
+### Hey Epic Gaymers!
+
+<!-- COOL FACTS -->
+<ul>
+  <li> ☄️ I'm Adriichu (you can call me Aaron) and I'm <img src="https://awesome.re/badge.svg" width="100"/></li>
+  <li> 📝 I’m currently working on Discord Bots</li>
+  <li> 💌 Contact me with my mail or my Discord (Aaron_#3357)</li>
+  <li> 💻 I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></li>
+</ul>
+
 <div align="center"> 
     <img src="https://lanyard-profile-readme.vercel.app/api/287218738242125826" height="280">
 </div>

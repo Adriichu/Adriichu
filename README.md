@@ -4,7 +4,7 @@
 <!-- BUTTONS -->
 <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/Adriichu?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img src="https://komarev.com/ghpvc/?username=Adriichu&label=Profile%20views&color=red&style=for-the-badge" alt="Adriichu" />
+    <img src="https://komarev.com/ghpvc/?username=Adriichu&label=Profile%20views&style=for-the-badge" alt="Adriichu" />
 </p>
 
 <!-- BANNER -->

@@ -21,9 +21,11 @@
   <li> 💻 I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code.</a></li>
 </ul>
 
-<div align="center"> 
-    <img src="https://lanyard-profile-readme.vercel.app/api/287218738242125826" height="280">
-</div>
+
+<!-- SOCIALS -->
+### Connect with me:
+
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/287218738242125826"/>
 
 <br>
 <br>

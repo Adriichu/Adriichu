@@ -42,4 +42,4 @@
 
 <!-- SYSTEM -->
 ### Operating System:
- <img alt="C#" width="18px" src="https://www.getmyos.com/upload/files/2018/09/17/windows-logo_1_926ed76111646acbbe332bc5af0cf2ce.png" /> Windows 10 <br> <br>
+ <img alt="C#" width="30px" src="https://www.getmyos.com/upload/files/2018/09/17/windows-logo_1_926ed76111646acbbe332bc5af0cf2ce.png" /> Windows 10 <br> <br>

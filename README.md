@@ -39,7 +39,8 @@
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" /><br> <br>
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn.discordapp.com/attachments/818520814626144317/980456049788194886/1200px-Bash_Logo_Colored.svg.png" /><br> <br>
 
 <!-- SYSTEM -->
 ### Operating System:

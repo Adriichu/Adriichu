@@ -30,7 +30,7 @@
 </div>
 
 <!-- LANGUAGE AND TOOLS -->
-### Languages and Tools:
+### Languages and Tools I use:
 
 <img align="left" alt="discord.js" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="30px" src="https://i.imgur.com/3u1wzwE.png" />

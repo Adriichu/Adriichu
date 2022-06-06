@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Aaron</a>.</h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Aaron</a>.</h1>
 
 <!-- BUTTONS -->
 <p align="center">

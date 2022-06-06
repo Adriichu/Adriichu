@@ -37,7 +37,6 @@
 
 <!-- LANGUAGES -->
 ### Languages:
-
 <img align="left" alt="Javascript" width="30px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> 
 <img align="left" alt="GitHub" width="30px" src="https://cdn.discordapp.com/attachments/818520814626144317/980456049788194886/1200px-Bash_Logo_Colored.svg.png" /><br> <br>
@@ -51,8 +50,7 @@
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" /> <br> <br> 
 
 <!-- Tools -->
-## Tools:
-
+### Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" /> <br> <br>

@@ -45,7 +45,7 @@
 <!-- SYSTEM -->
 ### Operating Systems:
  <img align= "left" alt="Windows" width="30px" src="https://www.getmyos.com/upload/files/2018/09/17/windows-logo_1_926ed76111646acbbe332bc5af0cf2ce.png" /> 
- <img align= "left" alt="Ubuntu" width="30px" src="https://www.getmyos.com/upload/files/2018/10/27/ubuntu-logo-icon_1_10952813d4f19930616004280324c24e.png" /> <br>
+ <img align= "left" alt="Ubuntu" width="30px" src="https://www.getmyos.com/upload/files/2018/10/27/ubuntu-logo-icon_1_10952813d4f19930616004280324c24e.png" /> <br> <br>
 
 <!-- STATS -->
 ### Statistics:

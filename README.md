@@ -79,4 +79,6 @@
   
 ### My Spotify Activity :
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sxrsy9id3hyy8d0xts1dmqnyy&cover_image=true&theme=default&bar_color=ec4b83&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=sxrsy9id3hyy8d0xts1dmqnyy&redirect=true)</p>
+ <div align=center>
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sxrsy9id3hyy8d0xts1dmqnyy&cover_image=true&theme=default&bar_color=ec4b83&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=sxrsy9id3hyy8d0xts1dmqnyy&redirect=true)</p>
+  </div> 

@@ -81,5 +81,5 @@
 
  <div align=center>
     <a>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=sxrsy9id3hyy8d0xts1dmqnyy&cover_image=true&theme=default&bar_color=ec4b83&bar_color_cover=true" title="Spotify-Github-Profile">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=sxrsy9id3hyy8d0xts1dmqnyy&redirect=true" title="Spotify-Github-Profile">
     </a>

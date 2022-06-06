@@ -55,6 +55,9 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" /> <br> <br>
 
+### My Spotify Activity :
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sxrsy9id3hyy8d0xts1dmqnyy&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=sxrsy9id3hyy8d0xts1dmqnyy&redirect=true)
 
 <!-- STATS -->
 ### Statistics:
@@ -76,5 +79,3 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Adriichu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  
-### My Spotify Activity :

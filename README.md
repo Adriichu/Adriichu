@@ -15,10 +15,10 @@
 
 <!-- COOL FACTS -->
 <ul>
-  <li> ☄️ I'm Adriichu (you can call me Aaron) and I'm <img src="https://awesome.re/badge.svg" width="100"/></li>
-  <li> 📝 I’m currently working on Discord Bots.</li>
-  <li> 💌 Contact me with my mail or my Discord (Aaron_#7013)!</li>
-  <li> 💻 I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code.</a></li>
+  <li> I'm Adriichu (you can call me Aaron) and I'm <img src="https://awesome.re/badge.svg" width="100"/></li>
+  <li> I’m currently working on Discord Bots.</li>
+  <li> Contact me with my mail or my Discord (Aaron_#7013)!</li>
+  <li> I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code.</a></li>
 </ul>
 
 
@@ -44,7 +44,7 @@
 
 <!-- Frameworks -->
 ### Frameworks:
-<img align="left" alt="discord.js" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="discord.js" width="30px" src="https://camo.githubusercontent.com/36dddbf2f91241b3bf4b31af97c6fde92f911ba621c5dae84cd3f6cdff6f4d0c/68747470733a2f2f6b6f79612e67672f6173736574732f696d672f646973636f72646a732d6c6f676f2e706e67" />
 <img align="left" alt="discord.py   " width="30px" src="https://avatars.githubusercontent.com/u/93640097?v=4&s=160" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />

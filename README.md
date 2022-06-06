@@ -29,24 +29,34 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/287218738242125826">
 </div>
 
-<!-- LANGUAGE AND TOOLS -->
-### Languages and Tools I use:
-
-<img align="left" alt="discord.js" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="30px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn.discordapp.com/attachments/818520814626144317/980456049788194886/1200px-Bash_Logo_Colored.svg.png" /><br> <br>
-
 <!-- SYSTEM -->
 ### Operating Systems:
  <img align= "left" alt="Windows" width="30px" src="https://www.getmyos.com/upload/files/2018/09/17/windows-logo_1_926ed76111646acbbe332bc5af0cf2ce.png" /> 
  <img align= "left" alt="Ubuntu" width="30px" src="https://www.getmyos.com/upload/files/2018/10/27/ubuntu-logo-icon_1_10952813d4f19930616004280324c24e.png" />
  <img align= "left" alt="Ubuntu" width="30px" src="https://www.getmyos.com/upload/files/2018/12/09/debian_logo_1_efef35db51df439c5fbd270c9e3dbf70.png" /> <br> <br>
+
+<!-- LANGUAGES -->
+### Languages:
+
+<img align="left" alt="Javascript" width="30px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> 
+<img align="left" alt="GitHub" width="30px" src="https://cdn.discordapp.com/attachments/818520814626144317/980456049788194886/1200px-Bash_Logo_Colored.svg.png" /><br> <br>
+
+<!-- Frameworks -->
+### Frameworks:
+<img align="left" alt="discord.js" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="discord.py   " width="30px" src="https://user-images.githubusercontent.com/65175386/172191963-df85f0b1-301a-45ff-95f9-048801b55a3c.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" /> <br> <br> 
+
+<!-- Tools -->
+## Tools:
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" /> <br> <br>
+
 
 <!-- STATS -->
 ### Statistics:

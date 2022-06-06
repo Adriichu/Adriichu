@@ -78,7 +78,3 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Adriichu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   
 ### My Spotify Activity :
-
- <div align=center>
-    <a>
-[(https://spotify-github-profile.vercel.app/api/view?uid=sxrsy9id3hyy8d0xts1dmqnyy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)    </a>

@@ -8,7 +8,7 @@
 </p>
 
 <!-- BANNER -->
-<img src="https://cdn.discordapp.com/attachments/561523819676696586/955896938597847040/Banner-modified.png">
+<img src="https://cdn.discordapp.com/attachments/818520814626144317/983772357627875398/Untitled.png">
 
 <!-- -----ABOUT ME----- -->
 ### Hey Epic Gaymers!

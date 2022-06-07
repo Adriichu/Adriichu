@@ -29,14 +29,6 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/287218738242125826">
 </div>
 
-<!-- PINGS -->
-### Pins:
-
-<div align="center">
-  <a href="https://github.com/Adriichu/MinerServer.Host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriichu&repo=Adriichu&border_radius=25&theme=dracula&hide_border=true"></a>
-    <a href="https://github.com/Adriichu/Adriichu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriichu&repo=MinerServer.Host&border_radius=25&theme=dracula&hide_border=true"></a>
-    </div>
-
 <!-- SYSTEM -->
 ### Operating Systems:
  <img align= "left" alt="Windows" width="30px" src="https://www.getmyos.com/upload/files/2018/09/17/windows-logo_1_926ed76111646acbbe332bc5af0cf2ce.png" /> 
@@ -87,3 +79,11 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Adriichu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<!-- PINGS -->
+### Pins:
+
+<div align="center">
+  <a href="https://github.com/Adriichu/MinerServer.Host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriichu&repo=Adriichu&border_radius=25&theme=dracula&hide_border=true"></a>
+    <a href="https://github.com/Adriichu/Adriichu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriichu&repo=MinerServer.Host&border_radius=25&theme=dracula&hide_border=true"></a>
+    </div>

@@ -33,9 +33,12 @@
 ### Operating Systems:
 ![OS](https://skillicons.dev/icons?i=linux)<br> <br>
 
+<!-- HOSTS -->
+![Hosts](https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare)<br> <br>
+
 <!-- LANGUAGES -->
 ### Languages:
-![Languages](https://skillicons.dev/icons?i=js,py,bash) <br> <br>
+![Languages](https://skillicons.dev/icons?i=js,py,bash,md) <br> <br>
 
 <!-- Frameworks -->
 ### Frameworks:

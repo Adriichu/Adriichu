@@ -45,9 +45,7 @@
 
 <!-- Tools -->
 ### Tools:
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" /> <br> <br>
+![Tools](https://skillicons.dev/icons?i=vscode,github,nginx,heroku,docker,cloudflare,git,stackoverflow,svg,) <br> <br>
 
 ### My Spotify Activity :
 ‎‎

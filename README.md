@@ -53,7 +53,7 @@
 ### Tools:
 ![Tools](https://skillicons.dev/icons?i=vscode,github,nginx,docker,cloudflare,git,stackoverflow,svg,) <br> <br>
 
-<!-- Frameworks -->
+<!-- Socials -->
 ### Socials:
 ![Socials](https://skillicons.dev/icons?i=discord,instagram,twitter) <br> <br>
 

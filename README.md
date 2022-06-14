@@ -37,7 +37,7 @@
 
 <!-- LANGUAGES -->
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,py,bash)] <br> <br>
+![My Skills](https://skillicons.dev/icons?i=js,py,bash) <br> <br>
 
 <!-- Frameworks -->
 ### Frameworks:

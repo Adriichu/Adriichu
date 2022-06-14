@@ -34,6 +34,7 @@
 ![OS](https://skillicons.dev/icons?i=linux)<br> <br>
 
 <!-- HOSTS -->
+### Hosts:
 ![Hosts](https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare)<br> <br>
 
 <!-- LANGUAGES -->

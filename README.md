@@ -45,7 +45,7 @@
 
 <!-- Tools -->
 ### Tools:
-![Tools](https://skillicons.dev/icons?i=vscode,github,nginx,heroku,docker,cloudflare,git,stackoverflow,svg,) <br> <br>
+![Tools](https://skillicons.dev/icons?i=vscode,github,nginx,docker,cloudflare,git,stackoverflow,svg,) <br> <br>
 
 ### My Spotify Activity :
 ‎‎

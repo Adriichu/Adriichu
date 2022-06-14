@@ -45,6 +45,10 @@
 ### Frameworks:
 ![Frameworks](https://skillicons.dev/icons?i=html,css,nodejs,bots) <br> <br>
 
+<!-- Frameworks -->
+### Databases:
+![DB](https://skillicons.dev/icons?i=mongodb,mysql) <br> <br>
+
 <!-- Tools -->
 ### Tools:
 ![Tools](https://skillicons.dev/icons?i=vscode,github,nginx,docker,cloudflare,git,stackoverflow,svg,) <br> <br>

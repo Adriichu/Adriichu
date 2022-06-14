@@ -41,7 +41,7 @@
 
 <!-- Frameworks -->
 ### Frameworks:
-[![Frameworks](https://skillicons.dev/icons?i=html,css,nodejs,nginx,bots)]<br> <br> 
+![Frameworks](https://skillicons.dev/icons?i=html,css,nodejs,nginx,bots) <br> <br>
 
 <!-- Tools -->
 ### Tools:

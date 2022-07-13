@@ -26,7 +26,7 @@
 ### My Discord Activity:
 
 <div align="center"> 
-    <img src="[https://lanyard.cnrad.dev/api/287218738242125826](https://discord.com/users/287218738242125826)">
+    <img src="https://lanyard.cnrad.dev/api/287218738242125826">
 </div>
 
 <!-- SYSTEM -->

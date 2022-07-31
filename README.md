@@ -11,13 +11,13 @@
 <img src="https://cdn.discordapp.com/attachments/986541842025836554/986874824867606548/Untitled.png">
 
 <!-- -----ABOUT ME----- -->
-### Hey Epic Gaymers!
+### Hey!
 
 <!-- COOL FACTS -->
 <ul>
-  <li> I'm Adriichu (you can call me Aaron) and I'm <img src="https://awesome.re/badge.svg" width="100"/></li>
+  <li> I'm Adriichu (you can call me Aaron) and I think I am <img src="https://awesome.re/badge.svg" width="100"/></li>
   <li> I’m currently working on Discord Bots.</li>
-  <li> Contact me with my mail or my Discord (Aaron_#7013)!</li>
+  <li> Contact me with my mail or my Discord (Aaron_#0069)!</li>
   <li> I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code.</a></li>
 </ul>
 

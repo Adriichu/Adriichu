@@ -17,7 +17,7 @@
 <ul>
   <li> I'm Adriichu (you can call me Aaron) and I think I am <img src="https://awesome.re/badge.svg" width="100"/></li>
   <li> I’m currently working on Discord Bots.</li>
-  <li> Contact me with my mail or my Discord (Aaron_#0069)!</li>
+  <li> Contact me with my mail or my Discord (Aaron_#8771)!</li>
   <li> I code on <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code.</a></li>
 </ul>
 

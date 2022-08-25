@@ -8,12 +8,10 @@
 </p>
 
 <!-- BANNER -->
-<img src="https://cdn.discordapp.com/attachments/986541842025836554/986874824867606548/Untitled.png">
+<img src="https://media.discordapp.net/attachments/986541842025836554/1012278859883888700/lol_.png">
 
-<!-- -----ABOUT ME----- -->
+
 ### Hey!
-
-<!-- COOL FACTS -->
 <ul>
   <li> I'm Adriichu (you can call me Aaron) and I think I am <img src="https://awesome.re/badge.svg" width="100"/></li>
   <li> I’m currently working on Discord Bots.</li>

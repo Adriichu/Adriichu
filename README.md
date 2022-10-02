@@ -14,7 +14,7 @@
 ### My Discord Activity:
 
 <div align="center"> 
-    <img src="https://lanyard.cnrad.dev/api/287218738242125826?animated=true?bg=00000000">
+    <img src="https://lanyard-profile-readme.vercel.app/api/287218738242125826?bg=00000000">
 </div>
 
 <!-- SYSTEM -->

@@ -13,7 +13,9 @@
 <!-- SOCIALS -->
 ### My Discord Activity:
 
-<a href="https://discord.com/users/338718840873811979"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/287218738242125826?bg=00000000" /></a>
+<div align="center"> 
+    <img src="https://lanyard-profile-readme.vercel.app/api/287218738242125826?bg=00000000">
+</div>
 
 <!-- SYSTEM -->
 ### Operating Systems:

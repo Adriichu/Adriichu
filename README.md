@@ -4,7 +4,7 @@
 <table>
 	 <td width="1200px">
 	 <h2>About Me:</h2>
-         I am Aaron and I love learning new things. I also enjoy watching anime and programming in my free time. 		 
+         I am Aaron and I love learning new things. I also enjoy watching anime and programming in my free time. I am also very active on Discord.	 
  </p>
     <img src="https://komarev.com/ghpvc/?username=Adriichu&label=Profile%20views&style=for-the-badge" alt="Adriichu" />
     <img align="right" src="https://lanyard-profile-readme.vercel.app/api/287218738242125826?bg=00000000">

@@ -32,15 +32,21 @@
 	
 <table align="center">
 	<tr>
-		<td width="1200px">
+	    <td width="1200px">
 	    <h3>Operating System:</h3>
         <img align="right" src="https://skillicons.dev/icons?i=linux" draggable="false">
-		</td>
-		<td width="1200px">
+	     </td>
+	     <td width="1200px">
 	    <h3>Databases:</h3>
         <img align="right" src="https://skillicons.dev/icons?i=mongodb,mysql" draggable="false">
-		</td>
+	</td>
 	</tr>
 </table>
-
+	
+<table>
+	<td width="1200px">
+	<h3>Programming languages:</h3>
+	<img align="right" src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare"></td>
+	</tr>
+<table>   
 <br>

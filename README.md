@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/952298053715525723/1030418124396298240/banner.png" draggable="false">
+<img src="/files/banner.png" draggable="false">
 
 
 <table>

@@ -50,7 +50,6 @@
 	</tr>
 <table>   
 </br>
-</br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/Adriichu/Adriichu" title="Go to Source">

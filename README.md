@@ -45,7 +45,7 @@
 	
 <table>
 	<td width="1200px">
-	<h3>Programming languages:</h3>
+	<h3>Hosts:</h3>
 	<img align="right" src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare"></td>
 	</tr>
 <table>   

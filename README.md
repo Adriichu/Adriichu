@@ -28,7 +28,19 @@
         <img align="right" src="https://skillicons.dev/icons?i=discord,instagram,github" draggable="false">
 		</td>
 	</tr>
-
+</table>
+	
+<table align="center">
+	<tr>
+		<td width="1200px">
+	    <h3>Operating System:</h3>
+        <img align="right" src="https://skillicons.dev/icons?i=linux" draggable="false">
+		</td>
+		<td width="1200px">
+	    <h3>Databases:</h3>
+        <img align="right" src="https://skillicons.dev/icons?i=mongodb,mysql" draggable="false">
+		</td>
+	</tr>
 </table>
 
 <br>

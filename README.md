@@ -21,7 +21,7 @@
 	<tr>
 		<td width="1200px">
 	    <h3>Applications:</h3>
-        <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,cloudflare,git,stackoverflow,svg,nginx" draggable="false">
+        <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,cloudflare,git,stackoverflow,nginx" draggable="false">
 		</td>
 		<td width="1200px">
 	    <h3>Platforms :</h3>

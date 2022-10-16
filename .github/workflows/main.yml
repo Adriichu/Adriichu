@@ -1,4 +1,4 @@
-name: Snake Game Generator
+name: Snake Generator
 
 on:
   schedule:

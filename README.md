@@ -46,7 +46,7 @@
 <table>
 	<td width="1200px">
 	<h3>Hosts:</h3>
-	<img align="right" src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare"></td>
+	<img align="right" src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,cloudflare,workers"></td>
 	</tr>
 <table>   
 </br>

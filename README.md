@@ -66,4 +66,4 @@
     </a>
   </div>
   <br>
-  <img src="https://raw.githubusercontent.com/Adriichu/Adriichu/output/github-contribution-grid-snake.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Adriichu/Adriichu/output/github-contribution-grid-snake.svg" width="100%"/>

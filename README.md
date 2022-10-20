@@ -8,7 +8,7 @@
 </p>
     <img src="https://komarev.com/ghpvc/?username=Adriichu&label=Profile%20views&style=for-the-badge" alt="Adriichu" />
 <div align="left">
-  <img src="https://spotify.aaron.cok.gay/api?theme=dark&scan=true" width="500" />
+  <img src="https://spotify.aaron.cok.gay/api?theme=dark&scan=true" width="450" />
 </div>
     <img align="right" src="https://lanyard-profile-readme.vercel.app/api/287218738242125826?bg=00000000">
     

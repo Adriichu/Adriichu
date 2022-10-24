@@ -22,7 +22,7 @@
 	<tr>
 		<td width="1200px">
 	    <h3>Applications:</h3>
-        <img align="right" src="https://skillicons.dev/icons?i=vscode,docker,git,stackoverflow,nginx,express" draggable="false">
+        <img align="right" src="https://skillicons.dev/icons?i=vscode,docker,git,stackoverflow,nginx,express,githubactions" draggable="false">
 		</td>
 		<td width="1200px">
 	    <h3>Platforms :</h3>

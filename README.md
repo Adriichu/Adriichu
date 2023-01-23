@@ -4,11 +4,7 @@
 <table>
 	 <td width="1200px">
 	 <h2>About Me:</h2>
-         I am Aaron and I love learning new things. When I'm free, I like to watch anime and code. I am a very active user on Discord as well.
-</p>
-    <img src="https://komarev.com/ghpvc/?username=Adriichu&label=Profile%20views&style=for-the-badge" width="200">
-    <img align="right" src="https://lanyard-profile-readme.vercel.app/api/287218738242125826?bg=00000000">
-    <img align="right" src="https://spotify.aaron.cok.gay/api?theme=dark" width="500">
+		 <p>My name is Aaron, a software developer and technology enthusiast. I have a solid background in software development and am fluent in a variety of programming languages and technologies. In addition, I am knowledgeable about networking and Linux systems. </p>
     
 </td>
 	<tr>

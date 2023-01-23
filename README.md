@@ -4,7 +4,7 @@
 <table>
 	 <td width="1200px">
 	 <h2>About Me:</h2>
-		 <p>My name is Aaron, a software developer and technology enthusiast. I have a solid background in software development and am fluent in a variety of programming languages and technologies. In addition, I am knowledgeable about networking and Linux systems. </p>
+		 <p>I am Aaron, a software developer and technology enthusiast. I have a solid background in software development and am fluent in a variety of programming languages and technologies. In addition, I am knowledgeable about networking and Linux systems. </p>
     
 </td>
 	<tr>
